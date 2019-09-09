@@ -4,4 +4,14 @@
         \n你说人间苦难命也难逃折磨
         \n苦难生活日日的落寞
         \n我说万般皆是命是生活所迫</string>
+
+
+
+    <!--refresh-->
+    <string name="str_loading">Loading...</string>
+    <string name="str_network_error">Kesalahan jaringan</string>
+    <string name="str_not_more">Tidak ada lagi data</string>
+    <string name="str_refreshing">Menyegarkan</string>
+    <string name="str_load_error">Gagal memuat</string>
+
 </resources>
